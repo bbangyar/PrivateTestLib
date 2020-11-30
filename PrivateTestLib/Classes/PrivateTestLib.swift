@@ -12,5 +12,6 @@ import UIKit
 public class PrivateTestLib: NSObject {
     public func testLog() {
         NSLog("Called PrivateTestLib.testLog()")
+        NSLog("Updated version to 0.1.1")
     }
 }
