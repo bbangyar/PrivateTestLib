@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PrivateTestLib_Example' do
+  pod 'PrivateTestLib', :path => '../'
+
+  target 'PrivateTestLib_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase' , '~> 2.1.4'
+  end
+end
