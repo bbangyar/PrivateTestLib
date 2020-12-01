@@ -1,7 +1,7 @@
 {
   "name": "PrivateTestLib",
-  "version": "0.1.0",
-  "summary": "A short description of PrivateTestLib.",
+  "version": "0.1.1",
+  "summary": "Test a PrivateTestLib.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/bbangyar/PrivateTestLib",
   "license": {
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/bbangyar/PrivateTestLib.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"

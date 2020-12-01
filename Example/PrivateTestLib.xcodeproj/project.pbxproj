@@ -30,7 +30,7 @@
 
 /* Begin PBXFileReference section */
 		0157BEFEFF31B71870446CD7 /* Pods-PrivateTestLib_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PrivateTestLib_Tests.debug.xcconfig"; path = "Target Support Files/Pods-PrivateTestLib_Tests/Pods-PrivateTestLib_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		01995FAA4B0E0E1A4701898F /* PrivateTestLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PrivateTestLib.podspec; path = ../PrivateTestLib.podspec; sourceTree = "<group>"; };
+		01995FAA4B0E0E1A4701898F /* PrivateTestLib.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PrivateTestLib.podspec; path = ../PrivateTestLib.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		2C11B7192574DE6200006EBA /* PrivateTestLib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PrivateTestLib.swift; path = ../PrivateTestLib/Classes/PrivateTestLib.swift; sourceTree = "<group>"; };
 		5DB0BBAEB34A0E11D2A8A127 /* Pods-PrivateTestLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PrivateTestLib_Example.release.xcconfig"; path = "Target Support Files/Pods-PrivateTestLib_Example/Pods-PrivateTestLib_Example.release.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* PrivateTestLib_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PrivateTestLib_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
